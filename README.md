@@ -48,6 +48,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please open an issue in this repository.
 
----
-
-You can now add this content to a `README.md` file in your repository. Let me know if you need any further changes or assistance!
